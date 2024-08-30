@@ -32,5 +32,4 @@ Instalação
    pip install pygame
 3. Baixe o arquivo do script Python.
 4. Execute o Jogo: Navegue até o diretório onde o script está localizado e execute:
-   python nome_do_script.py
-   (Substitua nome_do_script.py pelo nome do seu arquivo Python.)
+   python jogo.py
